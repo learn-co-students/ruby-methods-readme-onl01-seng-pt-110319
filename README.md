@@ -208,9 +208,7 @@ following code in it:
 File: `greeting.rb`
 
 ```ruby
-def greeting
-  puts "Hello World"
-end
+
 ```
 
 Save your file and run it with `ruby greeting.rb`. You'll see:
